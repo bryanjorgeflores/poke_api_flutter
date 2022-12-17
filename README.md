@@ -1,11 +1,11 @@
-# poke_api_flutter
+# Pokemon project: PokeAPI + Flutter
 
-A new Flutter project to demostrate .
+A new Flutter project to demostrate my skills using Flutter.
 
 ## How to install this app in your phone
 There's a build for Android in the link below:
 ```
-https://github.com/bryanjorgeflores/poke_api_flutter/released
+https://github.com/bryanjorgeflores/poke_api_flutter/tree/main/released
 ```
 You must be able of use one of this releases, because they are builded for different phone architectures.
 
