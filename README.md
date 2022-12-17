@@ -1,16 +1,14 @@
-# poke_test
+# poke_api_flutter
 
-A new Flutter project.
+A new Flutter project to demostrate .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+For use this app you will need to install Flutter SDK. You can see:
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+![Main List](screenshots/screenshot_0.jpeg)
+![Searching a pokemon](screenshots/screenshot_2.jpeg)
+![Pokemon Details](screenshots/screenshot_1.jpeg)
+![Pokemon Details](screenshots/screenshot_3.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
