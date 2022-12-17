@@ -3,8 +3,8 @@ import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
 import 'package:intl/intl.dart';
 import 'package:poke_test/containers/pokemon/widgets/skeleton_list.dart';
 import 'package:poke_test/containers/pokemon_details/detail_page.dart';
-import 'package:poke_test/domain/common/data/colors.dart';
-import 'package:poke_test/domain/pokemon/models/pokemon_model.dart';
+import 'package:poke_test/domain/domain.dart';
+
 
 class PokemonList extends StatefulWidget {
   final PagingController<int, Pokemon> pagingController;

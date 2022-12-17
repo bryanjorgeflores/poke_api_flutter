@@ -1,6 +1,5 @@
 import 'package:poke_test/domain/common/mappings/error.mapping.dart';
-import 'package:poke_test/domain/pokemon/models/pokemon_model.dart';
-import 'package:poke_test/domain/pokemon/providers/pokemon_provider.dart';
+import 'package:poke_test/domain/domain.dart';
 import 'package:rxdart/rxdart.dart';
 
 class PokemonRepository {

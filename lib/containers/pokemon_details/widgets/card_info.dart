@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:poke_test/domain/common/data/colors.dart';
-import 'package:poke_test/domain/pokemon/models/pokemon_model.dart';
+import 'package:poke_test/domain/domain.dart';
+
 
 class CardInfo extends StatelessWidget {
   final Pokemon pokemon;

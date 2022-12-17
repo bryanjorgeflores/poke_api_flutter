@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:poke_test/containers/pokemon_details/widgets/card_info.dart';
-import 'package:poke_test/domain/common/data/colors.dart';
-import 'package:poke_test/domain/pokemon/models/pokemon_model.dart';
+import 'package:poke_test/domain/domain.dart';
+
 
 class PokemonDetailsPage extends StatefulWidget {
   final Pokemon pokemon;

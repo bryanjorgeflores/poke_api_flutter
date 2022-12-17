@@ -2,8 +2,8 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:equatable/equatable.dart';
 // ignore: depend_on_referenced_packages
 import 'package:meta/meta.dart';
-import 'package:poke_test/domain/pokemon/models/pokemon_model.dart';
-import 'package:poke_test/domain/pokemon/repositories/pokemon_repository.dart';
+import 'package:poke_test/domain/domain.dart';
+
 
 part 'pokemon_event.dart';
 part 'pokemon_state.dart';

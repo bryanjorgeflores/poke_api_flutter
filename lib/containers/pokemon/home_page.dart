@@ -4,7 +4,7 @@ import 'package:poke_test/containers/common/bloc/pokemon_bloc.dart';
 import 'package:poke_test/containers/common/widgets/toast.dart';
 import 'package:poke_test/containers/pokemon/widgets/list.dart';
 import 'package:poke_test/containers/pokemon_details/detail_page.dart';
-import 'package:poke_test/domain/pokemon/models/pokemon_model.dart';
+import 'package:poke_test/domain/domain.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class HomePage extends StatefulWidget {
