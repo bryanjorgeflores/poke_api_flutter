@@ -7,7 +7,7 @@ There's a build for Android in the link below:
 ```
 https://github.com/bryanjorgeflores/poke_api_flutter/tree/main/released
 ```
-You must be able to use one of this releases because they are builded for different Android phone architectures.
+You must be able to use one of this releases because they are built for different Android phone architectures.
 
 ## How to run this app
 
