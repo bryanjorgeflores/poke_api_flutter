@@ -39,8 +39,11 @@ flutter run
 Enjoy!
 
 ## Screenshots
-![Main List](screenshots/screenshot_0.jpeg)
-![Searching a pokemon](screenshots/screenshot_2.jpeg)
-![Pokemon Details](screenshots/screenshot_1.jpeg)
-![Pokemon Details](screenshots/screenshot_3.jpeg)
+|![Main List](screenshots/screenshot_0.jpeg)|![Searching a pokemon](screenshots/screenshot_2.jpeg)|
+|------------|-------------|
+|![Pokemon Details](screenshots/screenshot_1.jpeg)|![Pokemon Details](screenshots/screenshot_3.jpeg)|
+
+
+
+
 
